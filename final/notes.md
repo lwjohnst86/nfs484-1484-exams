@@ -34,6 +34,19 @@ Study 1:
 Role of LC-PUFA on CVD risk. Highlight ethnic differences.
 Inflammation and cholesterol metabolism.
 
+Study 2:
+
+Interaction between FADS gene and LC-PUFA intake on cholesterol +
+inflammation on CAD.
+
+Possible questions:
+
+Imagine you are clinician and a patient comes in who has has a mixed,
+but predominately East African ancestry.  Given that individuals with
+African ancestry are more likely to have two alleles of the FADS gene,
+given the data and your past knowledge, how could you reduce their
+risk for CAD disease?
+
 Final question (?)
 
 Using your previous knowledge: Given a recent clinical trial that
