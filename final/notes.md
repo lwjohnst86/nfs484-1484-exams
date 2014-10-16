@@ -1,3 +1,14 @@
+---
+title:
+author: 
+date: 
+tags: []
+geometry: margin=1in
+fontsize: 12pt
+fontfamily: "DejaVu Serif"
+papersize: letterpaper
+---
+
 # Ideas/notes for the final #
 
 Maybe instead of African + SFA intake with CVD, we look at how the
@@ -65,34 +76,39 @@ action.
 
 ## Study 1: ##
 
-Prospective longitudinal cohort.  Cross-sectional detail on
-inflammation, serum and dietary levels of the LC-PUFA.  Prospective
-data on CAD events.
+Prospective longitudinal cohort.  Cross-sectional at the baseline
+visit on inflammation (CRP), serum and dietary levels of the LC-PUFA.
+Prospective data on CAD events.
 
 The RR... (if it ranges between less than 1.0 and greater than 1.0
 there is no significant difference; for example, a CI of 0.98 to 1.15
 is not significant).
 
-Study 1 data (fig/tab): non-CAD vs future CAD and CRP, plasma and
+(Still need to develop this more. Tables and figures will to created
+after discussing with Carol)
+
+Study 1 data (fig/tab): non-CAD vs future CAD and CRP, serum and
 dietary n-6 and n-3 PUFA, and percentage of subjects of European and
 African descent at the baseline visit.
 
 Table is showing that:
+
 * Future CAD subjects at baseline had (compared to non-CAD):
     - = European descent
-    - > African descent
-    - > serum ARA
+    - \> African descent
+    - \> serum ARA
     - < serum LA
     - < ALA
-    - > EPA + DHA
-    - > CRP
-    - > diet of n-6
+    - \> EPA + DHA
+    - \> CRP
+    - \> diet of n-6
     - = diet n-3
 
 Study 1 data (fig/tab): RR of tertiles of D6D, CRP, and ARA/EPA+DHA
 with CAD.
 
 Fig showing that:
+
 * D6D inc risk
 * ARA/EPA+DHA ratio inc risk
 * CRP inc risk
@@ -100,6 +116,7 @@ Fig showing that:
 ### What we want them to get at: ###
 
 We want them to highlight that:
+
 * There are possible genetic differences
 * Inflammation contributes to CAD
 * Higher intake of n-6 may be bad
@@ -120,32 +137,38 @@ produced in the liver from free fatty acids and packed into
 lipoprotein to be sent into the blood.  TAG may directly contribute to
 CAD or may be a symptom of dysfunction of other organs.
 
-Greater risk alleles for FADS -> greater CRP, CAD risk
-Interaction between FADS gene and LC-PUFA intake on cholesterol +
-inflammation on CAD.
+A group of alleles that influence fatty acid desaturate activity
+(*FADS* gene) has been speculated to influence the risk for CAD.  A
+greater number of *FADS* alleles is associated with greater D6D
+activity and the resulting increased conversion of ALA and LA to their
+respective longer chain counterparts (EPA+DHA and ARA, respectively).
+Therefore, the number of *FADS* alleles were measured in all
+individuals in each community.
 
-Dietary intake of LA and ALA is thought to be best around a 1-to-1
-ratio.  The current Western diet is approximately 20-30-to-1 ratio
-(greater levels of LA).
+(Include this?: Dietary intake of LA and ALA is thought to be best
+around a 1-to-1 ratio.  The current Western diet is approximately
+20-30-to-1 ratio (greater levels of LA).)
 
-Greater FADS allele (enhanced LC-PUFA synthesis) with greater
-genetic components of African ancestry.
+(Create the tables and figures after discussing with Carol)
 
 Table showing basic characteristics (like diet, participation?, serum
 ARA and ARA/EPA+DHA) before and after intervention?.
+
 * Showing that the non-intervention group has a higher level of n-6
   intake
 
 Table showing differences between low FADS gene alleles and high
 number of FADS gene allele before intervention:
+
 * Those with more FADS alleles have:
-    - > n-3 LC-PUFA (EPA+DHA)
-    - > ARA
+    - \> n-3 LC-PUFA (EPA+DHA)
+    - \> ARA
     - < LA
     - < ALA
     - = dietary n-3 and n-6
 
 Fig: Showing overall intervention on CRP and TAG
+
 - Intervention reduces ARA/n-3 LC-PUFA ratio, CRP and TAG compared to
   non-intervention
 
@@ -162,6 +185,7 @@ Fig: Showing intervention according to number of FADS gene alleles
 ### What we want them to get at: ###
 
 We want them to highlight that:
+
 * More FADS alleles greater ARA and EPA+DHA
 * More FADS greater CRP
 * More FADS + greater intake of n-6 = inc CRP, ARA, and TAG
@@ -172,6 +196,9 @@ We want them to highlight that:
   production of EPA+DHA, favouring ARA.
 
 ## Possible questions: ##
+
+Based on the data from Study 2, comment on why more individuals with
+African ancestry had more CAD events.
 
 Discuss why TAG might be higher in the high FADS + high n-6 intake
 group.  Use the Background, Study 1, and Study 2 to defend your
