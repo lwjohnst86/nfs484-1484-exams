@@ -19,11 +19,11 @@ the adipocytes, potentially leading to an increased release of stored
 free fatty acids (FA), as well as discruption lipid and cholesterol
 metabolism.  Lipids and cholesterol are packaged in the liver into
 very-low density lipoproteins (VLDL) and low density lipoproteins
-(LDL).  Higher levels of circulating LDL may eventually penetrate the
-blood vessels, building up plaque and leading to cardiovascular
-disease (CVD).  The most common type of CVD is coronary artery disease
-(CAD), which can increase the risk for heart attacks --- also known as
-myocardial infarctions (MI)
+(LDL) [Need this?? Maybe not..].  Higher levels of circulating LDL may
+eventually penetrate the blood vessels, building up plaque and leading
+to cardiovascular disease (CVD).  The most common type of CVD is
+coronary artery disease (CAD), which can increase the risk for heart
+attacks --- also known as myocardial infarctions (MI)
 
 The n-3 long chain polyunsaturated fatty acids (n-3 LC-PUFA)
 eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are
@@ -33,10 +33,10 @@ alpha-linolenic acid (ALA).  The n-6 LC-PUFA equivalent of the n-3
 LC-PUFA is arachidonic acid (ARA) and is the precursor to potent
 pro-inflammatory molecules.  As with the n-3 LC-PUFA, ARA can be
 obtained from the diet as well as synthesized from linoleic acid (LA).
-Both ALA and LA are essential FA and can *only* be obtained from the
-diet.  ALA and LA are converted into their longer chain equivalents by
-the same delta-6 desaturase (D6D) enzyme and so compete for its
-action.
+However, both ALA and LA are essential FA and can *only* be obtained
+from the diet.  ALA and LA are converted into their longer chain
+equivalents (EPA+DHA and ARA, respectively) by the same delta-6
+desaturase (D6D) enzyme and therefore compete for its activity.
 
 ## Study 1: ##
 
@@ -48,8 +48,7 @@ The RR... (if it ranges between less than 1.0 and greater than 1.0
 there is no significant difference; for example, a CI of 0.98 to 1.15
 is not significant).
 
-(Still need to develop this more. Tables and figures will to created
-after discussing with Carol)
+[Need to develop this more]
 
 |                               | CAD-free (n=621) | CAD (n=457) | p-value |
 |-------------------------------+------------------+-------------+---------|
@@ -70,38 +69,31 @@ Values are the means and standard deviations.
 We want them to highlight that:
 
 * Inflammation contributes to CAD
-* ?? Higher intake of n-6 may be bad
 * Greater ARA relative to EPA+DHA is bad
 * Greater D6D is bad
 * That paradoxically LA is lower, while ALA is the same, in those who
   will develop CAD
 * And that paradoxically DHA+EPA is also higher, but ARA is higher
-* ?? Higher intakes of n-6 appear bad, but no influence of n-3
 
 ## Study 2: ##
 
 A community intervention was conducted to determine the effectiveness
 of strategies that aim to reduce dietary n-6 PUFA.
 
-A group of alleles that influence fatty acid desaturate activity
-(*FADS* gene) has been speculated to influence the risk for CAD.  A
-greater number of *FADS* alleles is associated with greater D6D
-activity and the resulting increased conversion of ALA and LA to their
-respective longer chain counterparts (EPA+DHA and ARA, respectively).
-Therefore, the number of *FADS* alleles were measured in all
-individuals in each community.
+A group of alleles called the *FADS* gene (or genes) has been
+identified that may modulate the D6D activity.  DNA was extracted from
+the participants to quantify the alleles.
 
-(Include this?: Dietary intake of LA and ALA is thought to be best
+[Include this?: Dietary intake of LA and ALA is thought to be best
 around a 1-to-1 ratio.  The current Western diet is approximately
-20-30-to-1 ratio (greater levels of LA).)
+20-30-to-1 ratio (greater levels of LA)....]
+
+[For clarity right now:]
 
 * LL = low n-6 (intervention) and <4 FADS alleles (low activity)
 * LH = low n-6 (intervention) and >4 FADS alleles (high activity)
 * HL = high n-6 (control) and <4 FADS alleles (low activity)
 * HH = high n-6 (control) and >4 FADS alleles (high activity)
-
-* Showing that the non-intervention group has a higher level of n-6
-  intake
 
 |             | Intervention | Control |
 |-------------+--------------+---------|
@@ -132,9 +124,8 @@ number of FADS alleles before the intervention.
 We want them to highlight that:
 
 * More FADS alleles greater ARA and EPA+DHA
-* More FADS greater CRP
-* More FADS + greater intake of n-6 = inc CRP, ARA, and TAG
-* Lower intake of n-6 reduces CRP, ARA, and TAG
+* More FADS + greater intake of n-6 = inc CRP
+* Lower intake of n-6 reduces CRP, ARA/EPA+DHA ratio
 * While paradoxical, the higher EPA+DHA in the FADS group is not
   enough to offset the higher levels of LA.
 * Greater LA competes for the D6D enzyme and too much LA reduces
@@ -144,10 +135,6 @@ We want them to highlight that:
 
 Based on the data from Study 2, comment on why more individuals with
 African ancestry had more CAD events.
-
-Discuss why TAG might be higher in the high FADS + high n-6 intake
-group.  Use the Background, Study 1, and Study 2 to defend your
-answer.
 
 Discuss the potential mechanisms underlying Study 2
 
