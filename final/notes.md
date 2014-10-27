@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 author: 
 date: 
 tags: []
@@ -7,43 +7,8 @@ geometry: margin=1in
 fontsize: 12pt
 fontfamily: "DejaVu Serif"
 papersize: letterpaper
+
 ---
-
-# Ideas/notes for the final #
-
-Maybe instead of African + SFA intake with CVD, we look at how the
-role of SFA vs carbs on lipoprotein size and atherogenicity?
-
-BUT: There is the *FADS* gene which about 80% of African Americans
-carry two copies of the gene (associated with increased levels of
-arachidonic acid) compared to about 45% in European Americans.
-
-*FADS* gene and LDL
-
-ALA -> d5d (FADS1) and d6d (FADS2) -> DHA
-LA -> d5d and d6d -> AA
-
-
-Greater d5d and d6d toward AA increase risk for CAD
-
-Combination of **both** FADS gene + dietary intake is important
-
-rs174548 in FADS1 may influence cholesterol metabolism
-
-Individuals with CAD had lower levels of LA than controls.  So even
-though it has a greater inflammatory properties, it is still
-essential (for arterial stiffness).  Combined with higher d6d + d5d activity.
-
-Combination of higher LA intake, lower ALA intake, and greater d6d
-activity (eg. more risk alleles on the FADS gene cluster) is the worst
-case.
-
-Even though greater d9d and elongase contribute to more ARA *and*
-EPA+DHA, there are vastly greater levels of both LA in the diet + more
-ARA. So the protective effect of EPA+DHA is offset by the higher
-levels of LA+ARA. (Martinelli)
-
-Good figures/tables in Martinelli2008
 
 # (Very) rough draft of final #
 
@@ -62,9 +27,8 @@ myocardial infarctions (MI)
 
 The n-3 long chain polyunsaturated fatty acids (n-3 LC-PUFA)
 eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are
-precursors to potent anti-inflammatory molecules and may favourably
-modify serum lipoprotein composition.  While EPA and DHA can be
-obtained from the diet, we can also synthesize them from the FA
+precursors to potent anti-inflammatory molecules.  While EPA and DHA
+can be obtained from the diet, we can also synthesize them from the FA
 alpha-linolenic acid (ALA).  The n-6 LC-PUFA equivalent of the n-3
 LC-PUFA is arachidonic acid (ARA) and is the precursor to potent
 pro-inflammatory molecules.  As with the n-3 LC-PUFA, ARA can be
@@ -87,55 +51,37 @@ is not significant).
 (Still need to develop this more. Tables and figures will to created
 after discussing with Carol)
 
-Study 1 data (fig/tab): non-CAD vs future CAD and CRP, serum and
-dietary n-6 and n-3 PUFA, and percentage of subjects of European and
-African descent at the baseline visit.
+|                               | CAD-free (n=621) | CAD (n=457) | p-value |
+|-------------------------------+------------------+-------------+---------|
+| BMI                           | 25.5             | 26.3        |    0.11 |
+| Serum LA (g/100g)             | 9.77 (1.38)      | 9.05 (1.40) |  <0.001 |
+| Serum ALA (g/100g)            | 0.10 (0.03)      | 0.09 (0.04) |    0.24 |
+| AA/LA (ratio)                 | 1.99 (0.36)      | 2.17 (0.41) |  <0.001 |
+| DHA+EPA/ALA (ratio)           | 7.12 (2.91)      | 8.09 (3.83) |   0.009 |
 
-Table is showing that:
+Table: Baseline characteristics of participants who either developed
+CAD or did not develop CAD (CAD-free) within a 15 year timeframe.
+Values are the means and standard deviations.
 
-* Future CAD subjects at baseline had (compared to non-CAD):
-    - = European descent
-    - \> African descent
-    - \> serum ARA
-    - < serum LA
-    - < ALA
-    - \> EPA + DHA
-    - \> CRP
-    - \> diet of n-6
-    - = diet n-3
-
-Study 1 data (fig/tab): RR of tertiles of D6D, CRP, and ARA/EPA+DHA
-with CAD.
-
-Fig showing that:
-
-* D6D inc risk
-* ARA/EPA+DHA ratio inc risk
-* CRP inc risk
+![Relative risks of tertiles of D6D and CRP with CAD.](./figs/fig1.png)
 
 ### What we want them to get at: ###
 
 We want them to highlight that:
 
-* There are possible genetic differences
 * Inflammation contributes to CAD
-* Higher intake of n-6 may be bad
+* ?? Higher intake of n-6 may be bad
 * Greater ARA relative to EPA+DHA is bad
 * Greater D6D is bad
-* That paradoxically LA and ALA is lower in those who will develop CAD
-* And that paradoxically EPA is also higher
-* Higher intakes of n-6 appear bad, but no influence of n-3
+* That paradoxically LA is lower, while ALA is the same, in those who
+  will develop CAD
+* And that paradoxically DHA+EPA is also higher, but ARA is higher
+* ?? Higher intakes of n-6 appear bad, but no influence of n-3
 
 ## Study 2: ##
 
 A community intervention was conducted to determine the effectiveness
 of strategies that aim to reduce dietary n-6 PUFA.
-
-Higher levels of triacylglycerol (TAG) are thought to contribute to
-the development of cardiovascular diseases such as CAD.  TAG is
-produced in the liver from free fatty acids and packed into
-lipoprotein to be sent into the blood.  TAG may directly contribute to
-CAD or may be a symptom of dysfunction of other organs.
 
 A group of alleles that influence fatty acid desaturate activity
 (*FADS* gene) has been speculated to influence the risk for CAD.  A
@@ -149,38 +95,37 @@ individuals in each community.
 around a 1-to-1 ratio.  The current Western diet is approximately
 20-30-to-1 ratio (greater levels of LA).)
 
-(Create the tables and figures after discussing with Carol)
-
-Table showing basic characteristics (like diet, participation?, serum
-ARA and ARA/EPA+DHA) before and after intervention?.
+* LL = low n-6 (intervention) and <4 FADS alleles (low activity)
+* LH = low n-6 (intervention) and >4 FADS alleles (high activity)
+* HL = high n-6 (control) and <4 FADS alleles (low activity)
+* HH = high n-6 (control) and >4 FADS alleles (high activity)
 
 * Showing that the non-intervention group has a higher level of n-6
   intake
 
-Table showing differences between low FADS gene alleles and high
-number of FADS gene allele before intervention:
+|             | Intervention | Control |
+|-------------+--------------+---------|
+| BMI         | NS           | NS      |
+| Dietary n-3 | NS           | NS      |
+| Dietary n-6 | -150%        | NS      |
 
-* Those with more FADS alleles have:
-    - \> n-3 LC-PUFA (EPA+DHA)
-    - \> ARA
-    - < LA
-    - < ALA
-    - = dietary n-3 and n-6
+Table: Significant percent changes in basic characteristics of
+participants from the two groups before and after the
+intervention. NS = not significantly different.
 
-Fig: Showing overall intervention on CRP and TAG
+|                         | Low FADS alleles | High FADS alleles |
+|-------------------------+------------------+-------------------|
+| Serum LA (g/100 g)      | 12.2 (1.54)      | 9.96 (1.10)*      |
+| Serum ARA (g/100 g)     | 18.54 (2.08)     | 20.19 (1.98)*     |
+| Serum ALA (g/100 g)     | 0.11 (0.02)      | 0.09 (0.01)*      |
+| Serum EPA+DHA (g/100 g) | 7.33 (1.45)      | 7.78 (1.23)*      |
 
-- Intervention reduces ARA/n-3 LC-PUFA ratio, CRP and TAG compared to
-  non-intervention
+Table:  Differences between a low number of FADS alleles and a high
+number of FADS alleles before the intervention.
 
-Fig: Showing intervention according to number of FADS gene alleles
-(use Cormier et al 2012 for fig to edit).
+![Effect of intervention on CRP and ARA to EPA+DHA ratio.](figs/fig2.png)
 
-- Showing four bars: Low FADS + intervention, low FADS + no
-  intervention, high FADS + intervention, high FADS + no intervention
-- Results show that low fads + intervention is lower than no
-  intervention, but that high FADS + intervention has a bigger
-  difference to no intervention on: ARA-to-n3 LC-PUFA ratio, CRP, and
-  TAG
+![Effect of intervention on participants with either a low or a high number of FADS alleles.](figs/fig3.png)
 
 ### What we want them to get at: ###
 
@@ -230,3 +175,39 @@ pick up causal mechanisms in the general population, even though a
 causal effect may actually be present in a subset of the population
 (for example, FADS polymorphisms), and 3) why targeting only n-3
 LC-PUFA may not always be effective.
+
+# Ideas/notes for the final #
+
+Maybe instead of African + SFA intake with CVD, we look at how the
+role of SFA vs carbs on lipoprotein size and atherogenicity?
+
+BUT: There is the *FADS* gene which about 80% of African Americans
+carry two copies of the gene (associated with increased levels of
+arachidonic acid) compared to about 45% in European Americans.
+
+*FADS* gene and LDL
+
+ALA -> d5d (FADS1) and d6d (FADS2) -> DHA
+LA -> d5d and d6d -> AA
+
+
+Greater d5d and d6d toward AA increase risk for CAD
+
+Combination of **both** FADS gene + dietary intake is important
+
+rs174548 in FADS1 may influence cholesterol metabolism
+
+Individuals with CAD had lower levels of LA than controls.  So even
+though it has a greater inflammatory properties, it is still
+essential (for arterial stiffness).  Combined with higher d6d + d5d activity.
+
+Combination of higher LA intake, lower ALA intake, and greater d6d
+activity (eg. more risk alleles on the FADS gene cluster) is the worst
+case.
+
+Even though greater d9d and elongase contribute to more ARA *and*
+EPA+DHA, there are vastly greater levels of both LA in the diet + more
+ARA. So the protective effect of EPA+DHA is offset by the higher
+levels of LA+ARA. (Martinelli)
+
+Good figures/tables in Martinelli2008
