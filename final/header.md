@@ -1,4 +1,3 @@
-<!-- To keep for later, after I have finished the final -->
 
 \begin{center}
 \bfseries{
@@ -8,7 +7,7 @@ Department of Nutritional Sciences
 \\~\\
 Final Examination 2014
 \\~\\
-{{DATE}}
+December 18, 2014
 
 ~~
 
@@ -18,19 +17,17 @@ NFS484H1 F/1484H1 F
 Duration --- 2 hours}
 \end{center}
 
-<!-- pandoc final.md -o final.pdf -->
-<!-- pandoc final.md -o final.docx -->
 
 \vspace{2.75cm}
 
-**General Instructions**
+\textbf{General Instructions}
 
 1. This is an open book examination; therefore students may use any
    aids that have been brought into the examination room.
    
-2. The examination is divided into 2 parts (2 studies) worth 15 marks
-   and 25 marks respectively, for a total of 40 marks.  The midterm
-   examination will comprise 30% of your final grade.
+2. The examination is divided into 2 parts (2 studies) worth \#\# marks
+   and \#\# marks respectively, for a total of \#\# marks.  The midterm
+   examination will comprise \#\#\% of your final grade.
 
 3. Students must answer all questions in all parts of the examination.
    Please be certain to allocate your time appropriately to ensure
