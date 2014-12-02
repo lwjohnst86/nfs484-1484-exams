@@ -7,12 +7,6 @@ geometry: margin=1in
 fontsize: 11pt
 fontfamily: "DejaVu Serif"
 papersize: letterpaper
-header-includes:
-    - \usepackage{lastpage}
-    - \makeatletter
-    - \renewcommand{\@oddfoot}{\hfil Page \thepage{} of \pageref{LastPage} \hfil}
-    - \makeatother
-include-before: \input{header.tex}
 
 ---
 
@@ -83,14 +77,12 @@ _Values are the means and standard deviations._
 1. Describe the results in Table 1 and Figure 1. (Value 4/50)
 
     * Table 1:
-        * BMI - non-CAD = CAD
-        * LA - non-CAD > CAD
-        * ARA - non-CAD < CAD
-        * ALA - non-CAD = CAD
-        * EPA+DHA - non-CAD = CAD
+        * BMI + ALA + EPA+DHA: non-CAD = CAD
+        * LA: non-CAD > CAD
+        * ARA: non-CAD < CAD
     * Figure 1:
-        * Risk, D6D - Low < Mid < High (or Low<Mid=High)
-        * Risk, CRP - Low = Mid < High
+        * Risk, D6D: Low < Mid < High (or Low<Mid=High)
+        * Risk, CRP: Low = Mid < High
     * Full marks for the above
     * Marks off:
         * -0.75 for each non-significant not mentioned, max -2
@@ -180,10 +172,8 @@ _\* indicates significantly different (p<0.05) from participants with
 3. Describe the results of Table 2. (Value 2/50)
 
     * Table 2:
-        * LA - Low FADS > High FADS
-        * ARA - Low FADS < High FADS
-        * ALA - Low FADS > High FADS
-        * EPA+DHA - Low FADS < High FADS
+        * LA + ALA: Low FADS > High FADS
+        * ARA + EPA+DHA: Low FADS < High FADS
     * Marks off:
         * -0.5 if direction not mentioned, max -1.5
 
@@ -223,8 +213,7 @@ _\* indicates significantly different (p<0.05) from participants with
 5. Describe the results of Figure 2. (Value 2/50)
 
     * Figure 2:
-        * CRP - LL = LH < HL < HH
-        * ARA to EPA+DHA ratio - LL = LH < HL < HH
+        * CRP + ARA to EPA+DHA ratio --- LL = LH < HL < HH
     * Marks off:
         * -0.5 if non-significant is not mentioned, max -1
         * -0.5 if direction not mentioned, max -1.5
@@ -318,8 +307,7 @@ _\* indicates significantly different (p<0.05) from participants with
         * If more n-3, more EPA+DHA, likely less inflammation, likely
           lower risk.
     * Marks given/off:
-        * +3 base if they mention something like the above possible
-          answer
+        * +3 base if they indicate something like the above answer
         * +2 for clear, logical, rational thinking
         * +2 for defending using evidence/info from study
         * +1 for defending using outside knowledge
@@ -338,6 +326,16 @@ _\* indicates significantly different (p<0.05) from participants with
           FADS).
         * The story includes both n-3 AND n-6. Targetting one may not
           be enough.
+        * Use all data/information
+    * Marks given/off:
+        * +4 base if they indicate at least one problem with clinical
+          trials and at least one reason why n-6 is also important
+        * +2 for clear, rational thought process
+        * +2 for defending using all info/data
+        * +1 for defending using outside knowledge
+        * +1 for being creative
+        * -1 for not citing info/data from exam
+        * -1 for not using all data
 
 
 ![Effect of intervention on participants with either a low or a high number of FADS alleles.  LL = low n-6 (intervention) and <4 FADS alleles (low FADS); LH = low n-6 (intervention) and >4 FADS alleles (high FADS); HL = high n-6 (control) and <4 FADS alleles (low FADS); HH = high n-6 (control) and >4 FADS alleles (high FADS).](figs/fig3.png)

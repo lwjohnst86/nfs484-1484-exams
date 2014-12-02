@@ -16,3 +16,7 @@ final_docx :
 
 final_pdf :
 	pandoc final.md -o final.pdf
+
+final_answers :
+	pandoc finalAnswerKey.md -o finalAnswerKey.pdf
+	pandoc finalAnswerKey.md -o finalAnswerKey.docx
