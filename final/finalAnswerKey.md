@@ -117,14 +117,14 @@ _Values are the means and standard deviations._
           (Background + Figure 1), this suggests that dietary n-6 ->
           D6D -> serum n-6 LC-PUFA -> CRP -> CAD
     * Marks off:
-        * -1 if info from Background + data is not summarized
-        * -1 if info isn't properly cited
+        * ~ -1 if info isn't properly cited
         * -2 if somewhere this isn't shown (*diet* n-6 -> D6D -> serum
           n-6 LC-PUFA -> CRP -> CAD)
         * -2 if synthesis isn't shown or developed (no clear line of
           thinking shown)
         * No marks off if they don't use everything (question doesn't
           ask that)
+        * -1 if not tie back to diet
 
 \newpage\newpage
 
@@ -269,7 +269,7 @@ _\* indicates significantly different (p<0.05) from participants with
           ALA+LA -> more ARA+EPA+DHA)
         * -2 if synthesis isn't shown or developed (no clear line of
           thinking shown)
-        * -2 if not all information is used as the question states use
+        * -1 if not all information is used as the question states use
           **all**.
 
 7. Imagine you are clinician and a patient comes in who has a mixed,
@@ -309,9 +309,11 @@ _\* indicates significantly different (p<0.05) from participants with
     * Marks given/off:
         * +3 base if they indicate something like the above answer
         * +2 for clear, logical, rational thinking
-        * +2 for defending using evidence/info from study
-        * +1 for defending using outside knowledge
+        * +3 for defending using evidence
         * -1 for not citing info/data from exam
+        * ~ -1 if not tie back to country/question
+        * + marks if they discuss how FADS may be disadvantageous in
+          North American context, but not in other contexts
 
 9. A recent large randomized, controlled clinical trial showed no
    effect of n-3 LC-PUFA supplementation on CAD.  Comment on 1) why a
@@ -326,12 +328,11 @@ _\* indicates significantly different (p<0.05) from participants with
           FADS).
         * The story includes both n-3 AND n-6. Targetting one may not
           be enough.
-        * Use all data/information
     * Marks given/off:
         * +4 base if they indicate at least one problem with clinical
           trials and at least one reason why n-6 is also important
         * +2 for clear, rational thought process
-        * +2 for defending using all info/data
+        * +2 for defending using info/data
         * +1 for defending using outside knowledge
         * +1 for being creative
         * -1 for not citing info/data from exam
